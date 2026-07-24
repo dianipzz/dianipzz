@@ -1,16 +1,14 @@
 # <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Diana Martínez </h1> <br/>
 
-<img align="right" width=300px alt="cat with flowers" src="https://tenor.com/view/cat-with-flowers-gif-16770044322233971788" />
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
 💡 &nbsp;Me encanta crear experiencias web interactivas, aprender nuevas tecnologías y optimizar soluciones de software.\
 🎓 &nbsp;Soy T.S.U. en Informática y cuento con un Diplomado en Desarrollo de Software especializado en Frontend.\
-🌱 &nbsp;Actualmente me sigo formando en desarrollo web con React, Node.js y aprendiendo sobre Análisis de Datos.\
-✍️ &nbsp;En mi tiempo libre me apasiona el emsamblaje de computadoras y devorar libros.\
+🌱 &nbsp;Actualmente me sigo formando en desarrollo web con React, TypeScript y aprendiendo sobre Análisis de Datos.\
+✍️ &nbsp;En mi tiempo libre me apasiona el ensamblaje de computadoras y devorar libros.\
 💬 &nbsp;Escríbeme para colaborar en proyectos de desarrollo Frontend, soporte técnico o simplemente para tener una charla interesante sobre tecnología.\
 ✉️ &nbsp;¡Puedes enviarme un correo a <a href="mailto:martinezurbanodiana@gmail.com">martinezurbanodiana@gmail.com</a> ! Responderé lo antes posible.\
-📄 &nbsp;Visita mi <a href="https://www.linkedin.com/in/nnaniaz/">LinkedIn<a/> para ver más detalles sobre mis proyectos y trayectoria. ¡Acepto con gusto cualquier sugerencia o comentario!\
+📄 &nbsp;Visita mi <a href="https://www.linkedin.com/in/nnaniaz/" target="_blank" rel="noopener noreferrer">LinkedIn<a/> para ver más detalles sobre mis proyectos y trayectoria. ¡Acepto con gusto cualquier sugerencia o comentario!\
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -30,8 +28,8 @@
 
 #### 🤝🏻 &nbsp;Redes Sociales.
 
-<a href="https://www.linkedin.com/in/nnaniaz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:martinezurbanodiana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/nnaniaz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.goodreads.com/nnanian"><img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213"/></a>
+<a href="https://www.linkedin.com/in/nnaniaz/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:martinezurbanodiana@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/nnaniaz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.goodreads.com/nnanian" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213"/></a>
 </p>
