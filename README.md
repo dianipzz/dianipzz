@@ -8,7 +8,7 @@
 ✍️ &nbsp;En mi tiempo libre me apasiona el ensamblaje de computadoras y devorar libros.\
 💬 &nbsp;Escríbeme para colaborar en proyectos de desarrollo Frontend, soporte técnico o simplemente para tener una charla interesante sobre tecnología.\
 ✉️ &nbsp;¡Puedes enviarme un correo a <a href="mailto:martinezurbanodiana@gmail.com">martinezurbanodiana@gmail.com</a> ! Responderé lo antes posible.\
-📄 &nbsp;Visita mi <a href="https://www.linkedin.com/in/nnaniaz/" target="_blank" rel="noopener noreferrer">LinkedIn<a/> para ver más detalles sobre mis proyectos y trayectoria. ¡Acepto con gusto cualquier sugerencia o comentario!\
+📄 &nbsp;Visita mi <a href="https://www.linkedin.com/in/nnaniaz/" target="_blank" rel="noopener noreferrer">LinkedIn<a/> para ver más detalles sobre mis proyectos y trayectoria. ¡Acepto con gusto cualquier sugerencia o comentario!
 
 
 ### 🛠 &nbsp;Tech Stack
